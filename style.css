@@ -88,7 +88,7 @@ section {
     flex-wrap: wrap;
 }
 
-Body {
+body {
     background-color: rgb(254, 254, 254);
 }
 
@@ -113,4 +113,7 @@ nav a:hover {
     left: 0;
 
 }
+
+
+
 
